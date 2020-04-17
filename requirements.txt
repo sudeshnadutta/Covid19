@@ -1,7 +1,7 @@
 requests
 pandas
 numpy
-BeautifulSoup
+bs4
 plotly
 ipywidgets
 warnings
