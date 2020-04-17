@@ -6,3 +6,5 @@ plotly
 ipywidgets
 warnings
 folium
+plotly-express
+
