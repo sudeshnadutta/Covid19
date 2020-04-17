@@ -4,7 +4,6 @@ numpy
 bs4
 plotly
 ipywidgets
-warnings
 folium
 plotly-express
 
