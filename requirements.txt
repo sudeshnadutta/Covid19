@@ -1,9 +1,9 @@
+jupyter notebook
 requests
 pandas
 numpy
 bs4
+plotly-express
 ipywidgets
 folium
-plotly-express
-px
 voila
