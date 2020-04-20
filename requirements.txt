@@ -2,7 +2,6 @@ requests
 pandas
 numpy
 bs4
-plotly
 ipywidgets
 folium
 plotly-express
