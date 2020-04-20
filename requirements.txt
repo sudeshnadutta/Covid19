@@ -7,6 +7,3 @@ ipywidgets
 folium
 plotly-express
 voila
-geopandas
-plotly.graph_objects
-plotly.offline
