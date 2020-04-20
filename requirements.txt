@@ -4,5 +4,6 @@ numpy
 bs4
 ipywidgets
 folium
+plotly-express
 px
 voila
